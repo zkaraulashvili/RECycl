@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359058899800",
+    "firebase_url": "https://dav4-recycleview-zk-default-rtdb.firebaseio.com",
+    "project_id": "dav4-recycleview-zk",
+    "storage_bucket": "dav4-recycleview-zk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359058899800:android:6ca9a875ab65e1d98e1b2d",
+        "android_client_info": {
+          "package_name": "com.example.recycl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359058899800-nrcc8fafg799c231usnnadmbol9eba7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfEUBmEluMXL2n7onyfxr99qoKHC7ftY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359058899800-nrcc8fafg799c231usnnadmbol9eba7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
